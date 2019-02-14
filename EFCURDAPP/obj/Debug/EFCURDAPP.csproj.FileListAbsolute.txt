@@ -1,0 +1,13 @@
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EFCURDAPP.exe.config
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EFCURDAPP.exe
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EFCURDAPP.pdb
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EntityFramework.dll
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EntityFramework.xml
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.Form1.resources
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.Properties.Resources.resources
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.csproj.GenerateResource.Cache
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.exe
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.pdb
+D:\Projects\C#\EFCURDAPP\EFCURDAPP\obj\Debug\EFCURDAPP.csprojResolveAssemblyReference.cache
